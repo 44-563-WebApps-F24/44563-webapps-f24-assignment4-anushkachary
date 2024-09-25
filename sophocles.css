@@ -1,0 +1,29 @@
+.speech {
+    font-family: "Times New Roman", Times, serif;
+    font-size : 16px;
+    color: black;
+}
+
+.name
+{
+    font-family:'Cambria';
+    font-size: 25px;
+    color: coral;
+}
+.direction {
+    font-family: "Courier", monospace;
+    font-size: 14px;
+    color: black;
+    background-color: lightpink;
+    padding: auto;
+}
+
+.direction:hover {
+background-color: yellow;
+color: red;
+}
+
+.oed{color: Aqua; }
+.pr{color: lawngreen;}
+.cr{color: dimgrey;}
+.creon{color: teal;}
