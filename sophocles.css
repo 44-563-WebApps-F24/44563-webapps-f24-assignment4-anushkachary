@@ -27,3 +27,21 @@ color: red;
 .pr{color: lawngreen;}
 .cr{color: dimgrey;}
 .creon{color: teal;}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th,td {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: left;
+}
+
+th{
+    background-color: lavenderblush;
+}
+
+tr:nth-child(even) {
+    background-color: lightgreen;
+}
